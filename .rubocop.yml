@@ -4,3 +4,6 @@ inherit_gem:
 require:
   - standard
   - rubocop-performance
+
+Style/RedundantBegin:
+  Enabled: false
