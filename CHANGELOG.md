@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.2.#
+
+* Syntax bugfix for Ruby 2.4 with `rescue` on blocks
+
 ## 3.2.0
 
 * Mongoid 7.0 support
